@@ -20,12 +20,12 @@
     <strong> 🔭 I’m currently working on:
     -  AI SaaS startup :  Utilizes Next.js, TypeScript, Tailwind CSS, MERN stack, and includes user management, content management, and authentication systems. 💼
 
-    🌱 I’m currently learning AI and Cloud ☁️🤖
+    🌱 I’m currently learning Computer Science at IIIT-Basar ☁️🤖
 
     💬 Ask me about:
     - Delivering UIs of websites in less than 24 hours. ⚡
-    - Backend integration within a week. 🔗
     - Leveraging AI for business products and services by analyzing, ideating, and developing. 🧠
+    - Backend integration within a week that passes all the metrics of web performance scaling🔗
 
     ⚡ Specialty: Part-time dev with full-time dev's productivity and constantly upgrading myself to keep up with industry and, of course, AI.🌐🚀 
 </div>
