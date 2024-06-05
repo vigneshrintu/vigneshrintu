@@ -4,12 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vigneshwar+Reddy!;" />
 </h1>
 
-<h3 align="center"> <strong> AI-powered Full Stack MERN web developer with a strong grip over Next.js & React.js 🚀 </h3>
+<h3 align="center"> <strong> AI-powered Full Stack MERN web dev skilled in Next.js & React.js 🚀 </h3>
 
 <br/>
 
 <div align="center">
-    🌟 I assist you from design to deployment, and obviously development. I build modern, responsive UI websites that offer the best UX with a secure and scalable backend, blazingly fast. I use TypeScript and Tailwind CSS to make production-ready websites in a matter of hours.
+    🌟 I assist you from design to deployment, and obviously development. I build modern, responsive UI's that offer the best user centric UX with a secure and scalable backend, blazingly fast. I use TypeScript and Tailwind CSS to make production-ready websites in a matter of hours.
 
      📚 Besides tech, I have a life outside of computing. Let's connect & feel free to reach out. Rest assured, you will meet the kindest human being on this planet! 😊
 </div>
@@ -23,11 +23,9 @@
     🌱 I’m currently learning Computer Science at IIIT-Basar ☁️🤖
 
     💬 Ask me about:
-    - Delivering UIs of websites in less than 24 hours. ⚡
-    - Leveraging AI for business products and services by analyzing, ideating, and developing. 🧠
-    - Backend integration within a week that passes all the metrics of web performance scaling🔗
+    - Integrating AI into your products!🔗
 
-    ⚡ Specialty: Part-time dev with full-time dev's productivity and constantly upgrading myself to keep up with industry and, of course, AI.🌐🚀 
+    ⚡ Specialty: Part-time dev with full-time dev's productivity & constantly upgrading myself to keep up with industry and, of course, AI.🌐🚀 
 </div>
 
 
@@ -52,7 +50,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript,express,nodejs,mongodb,mysql,javascript,html,css,java,cpp,c,python,ai,github,linux,figma,bootstrap,mui,vscode,git,postman,netlify,vercel,npm,php,stackoverflow,svg,ubuntu,vscode,windows" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript,express,nodejs,mongodb,mysql,javascript,html,css,java,cpp,c,python,ai,github,linux,figma,bootstrap,mui,vscode,git,postman,netlify,vercel,stackoverflow,svg,vscode,windows" /><br>
 </div>
 
 <br/>
