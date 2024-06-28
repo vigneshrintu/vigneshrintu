@@ -18,7 +18,7 @@
 
 <div align="center">
     <strong> 🔭 I’m currently working on:
-    -  AI SaaS webapp :  Utilizes Next.js, TypeScript, Tailwind CSS, MERN stack, and includes user management, content management, and authentication systems. Along with no-sql DB, I'm using serverless architecture to build this one. 💼
+    -  Algorithms, Machine Learning & AI integrations into Web Applications.
 
     🌱 I’m currently learning Computer Science at IIIT-Basar ☁️🤖
 
