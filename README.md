@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vigneshrintu.vigneshrintu" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vigneshwar+Reddy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Programmer+👋;+Developer!;+Designer!;" />
 </h1>
 
 <h3 align="center"><strong>AI-powered MERN Stack Web Developer 🚀</strong></h3>
@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-    🌟 I build modern, responsive UIs with secure and scalable backends.
+    🌟 I build modern, responsive UI-UX with secure and scalable backends.
     <br/>
     📚 Computer Science student at IIIT-Basar | 💬 Ask me about integrating AI into your products!
 </div>
