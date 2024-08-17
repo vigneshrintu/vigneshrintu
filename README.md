@@ -12,6 +12,10 @@
     🌟 I build modern, responsive UI-UX with secure and scalable backends.
     <br/>
     📚 Computer Science student at IIIT-Basar | 💬 Ask me about integrating AI into your products!
+    <br/>
+    Currently working on AI, Machine Learning, Gen AI, LLMs & System Design✅
+    <br/>
+    <strong>For more details checkout my portfolio</strong>
 </div>
 
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
