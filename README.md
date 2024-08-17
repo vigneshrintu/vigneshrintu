@@ -13,7 +13,7 @@
     <br/>
     📚 Computer Science student at IIIT-Basar | 💬 Ask me about integrating AI into your products!
     <br/>
-    Currently working on AI, Machine Learning, Gen AI, LLMs & System Design✅
+    Currently working on AI, Machine Learning, Gen AI, LLMs, LangChain & System Design✅
     <br/>
     <strong>For more details checkout my portfolio in GitHub Profile</strong>
 </div>
