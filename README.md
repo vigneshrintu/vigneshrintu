@@ -15,7 +15,7 @@
     <br/>
     Currently working on AI, Machine Learning, Gen AI, LLMs & System Design✅
     <br/>
-    <strong>For more details checkout my portfolio</strong>
+    <strong>For more details checkout my portfolio in GitHub Profile</strong>
 </div>
 
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
