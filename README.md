@@ -1,7 +1,7 @@
 <!-- ===================================================== -->
 <!--                   Vigneshwar Reddy                  -->
 <!--    AI Engineer | Computer Scientist | IIIT-Basar     -->
-<!--    Web Developer | Full Stack | Problem Solver       -->
+<!--    Web Developer Full Stack | Generative AI         -->
 <!-- ===================================================== -->
 
 <h1 align="center" style="margin-bottom: 0.2em; font-size: 3.5em; color:#2C3E50;">Vigneshwar Reddy</h1>
@@ -35,14 +35,14 @@
 ### Bachelor of Technology in Computer Science Engineering  
 **Institution:** RGUKT Basar (IIIT-Basar), Telangana, India  
 **Duration:** Nov 2022 – Nov 2026  
-**CGPA:** 8.39/10
+**CGPA:** 8.0/10
 
 ---
 
 ### Pre University Course in MPC with IT and Python Specialization  
 **Institution:** RGUKT Basar, Telangana, India  
 **Duration:** Nov 2020 – Nov 2022  
-**CGPA:** 9.81/10
+**CGPA:** 9.8/10
 
 ## 💼 Experience
 
@@ -56,10 +56,4 @@
 **Company:** MadScientist  
 **Duration:** Aug 2024 – Present
 
-<!-- Interactive Section -->
-<details>
-  <summary style="font-size:1.2em; font-weight:bold; margin-top:1em;">More Details</summary>
-  <p style="margin-top: 1em;">
-    I am passionate about building scalable web applications, researching AI solutions, and solving complex problems. Feel free to reach out if you’d like to learn more about my projects, academic work, or professional experience!
-  </p>
-</details>
+
