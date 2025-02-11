@@ -1,1 +1,1 @@
-Feel free to reach out !
+AI Engineer |  Web Developer  |  Computer Scientist  |  Problem Solver
