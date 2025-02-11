@@ -6,7 +6,7 @@
 
 <h1 align="center" style="margin-bottom: 0.2em; font-size: 3.5em; color:#2C3E50;">Vigneshwar Reddy</h1>
 <p align="center" style="font-size: 1.5em; margin-top: 0;">
-  AI Engineer | Computer Scientist | IIIT-Basar | Web Developer | Full Stack | Problem Solver
+  AI Engineer | Computer Scientist | IIIT-Basar | Web Developer | Full Stack | Generative AI
 </p>
 
 <div align="center" style="margin-top: 1em;">
@@ -16,9 +16,6 @@
   </a>
   <a href="https://github.com/vigneshrintu/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/vigneshrintu/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
 
