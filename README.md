@@ -1,8 +1,6 @@
 # Vigneshwar Reddy
 
-## 🚀 AI Engineer | Computer Scientist | Node.js & Express.js Developer | IIIT-Basar
-
-### Full Stack Web Developer Specialized in Backend | Generative AI
+## AI-ML Engineer | Backend Engineer (NodeJS & ExpressJS) | GenAI | Computer Scientist | IIIT-Basar
 
 ---
 
