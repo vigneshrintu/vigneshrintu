@@ -1,6 +1,6 @@
 # Vigneshwar Reddy
 
-## AI-ML Engineer | Backend Engineer (NodeJS & ExpressJS) | GenAI | Computer Scientist | IIIT-Basar
+##  Computer Scientist | IIIT-Basar
 
 ---
 
@@ -18,4 +18,5 @@
 ## 📞 Mobile: +91-9182449715
 
 ---
+
 
